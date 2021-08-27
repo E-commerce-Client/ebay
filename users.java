@@ -1,5 +1,4 @@
 #list of Devops Engineers
-Mofor
 Simon
 Sylvie
 Eric
@@ -8,3 +7,4 @@ Jessica
 Rudolf
 Chuka
 Ken
+Kenedy
